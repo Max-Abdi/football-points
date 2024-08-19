@@ -1,2 +1,5 @@
-// Good Luck! You got this 💪🏾
-// Write your code here.
+function calculatepoints(Won, draw, losses){
+    console.log(Won*draw*losses)
+}
+
+calculatepoints(5,2,3)
